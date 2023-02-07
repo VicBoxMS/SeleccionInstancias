@@ -126,3 +126,8 @@ def FCNN(X_datos,y_etiquetas):
     y_final.append(clasesTrain[int(S[j]) ])
     X_final.append(datosTrain[int(S[j])])
   return np.append(X_final,np.array(y_final).reshape(-1,1),axis=1)
+
+
+
+def suma_s(a,b):
+  return a+b

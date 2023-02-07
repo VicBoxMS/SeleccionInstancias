@@ -1,1 +1,0 @@
-from paqueteseleccioninstancias.is import *

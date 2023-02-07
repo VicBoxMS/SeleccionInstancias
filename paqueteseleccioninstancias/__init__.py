@@ -1,1 +1,1 @@
-from paqueteseleccioninstancias.is import *
+from paqueteseleccioninstancias.iselection import *

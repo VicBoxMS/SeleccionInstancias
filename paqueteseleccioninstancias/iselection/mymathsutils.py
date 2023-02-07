@@ -1,3 +1,5 @@
+import numpy as np
+
 def FCNN(X_datos,y_etiquetas):
   """
   Funcion FCNN, tiene como objetivo reducir el numero de instancias para

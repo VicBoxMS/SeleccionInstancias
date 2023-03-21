@@ -130,6 +130,5 @@ def FCNN(X_datos,y_etiquetas):
   return np.append(X_final,np.array(y_final).reshape(-1,1),axis=1)
 
 
-
 def suma_s(a,b):
   return a+b

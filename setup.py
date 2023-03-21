@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name='seleccioninstancias',
-    version=0.3,
+    version=0.4,
     license="MIT",
     description="Paquete con una funcion",
     author='Victor Martinez Santiago @vicbox',
